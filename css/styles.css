@@ -16,7 +16,7 @@
 }
 
 /* Typography */
-::selection{
+::selection {
   background: var(--color-primary);
   color: #fff;
 }
@@ -611,6 +611,7 @@ a {
 
 .block__header {
   text-align: center;
+  margin-bottom: 4rem;
 }
 
 .block__heading {
@@ -807,5 +808,3 @@ a {
     max-width: 700px;
   }
 }
-
-
